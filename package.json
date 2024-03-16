@@ -1,0 +1,27 @@
+{
+  "name": "phey-show-currency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Stormo/phey-show-currency.git"
+  },
+  "keywords": [
+    "phey-show-currency"
+  ],
+  "author": "Stormo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Stormo/phey-show-currency/issues"
+  },
+  "homepage": "https://github.com/Stormo/phey-show-currency#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "phey-random-int": "1.0.0",
+    "phey-convert-currency": "1.0.1"
+  }
+}
